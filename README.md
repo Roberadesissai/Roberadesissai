@@ -52,8 +52,6 @@ Embark on a coding adventure with me and let’s create, innovate, and elevate t
 
 ---
 
-**Note**: Ensure to replace placeholder texts like `Your_LinkedIn_Profile`, `Your_Twitter_Profile`, and `Your_Email_Address` with actual content relevant to your profile. This README is designed to be a vibrant, thematic, and engaging introduction to your GitHub profile, showcasing your interests, skills, and personality in a playful and visually appealing manner.
-
 <!---
 Roberadesissai/Roberadesissai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
